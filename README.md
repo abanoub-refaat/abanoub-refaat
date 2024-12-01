@@ -4,6 +4,9 @@ I'm a passionate frontend developer and a Cairo University student pursuing a Co
 
 ## 🚀 Projects
 
+### [CS309 Final Project E-commerce Website](https://github.com/abanoub-refaat/CS309_EcommerceProject)
+This repository contains the source code and project files for the final project of the CS309 course. The project is a fully functional e-commerce website that showcases modern web development practices, including user-friendly design and efficient functionality.
+
 ### [JavaScript Projects](https://github.com/abanoub-refaat/JavaScript_Projects)
 A collection of projects showcasing my journey in mastering JavaScript and DOM manipulation.
 
