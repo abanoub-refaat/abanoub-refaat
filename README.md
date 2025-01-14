@@ -20,13 +20,15 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23FF5722.svg?style=for-the-badge&logo=matlab&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![Next.js](https://img.shields.io/badge/Next.js-%23333A3D.svg?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+![Express.js](https://img.shields.io/badge/Express.js-%232C3E50.svg?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-%232F6A47.svg?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Tailwind](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![SASS](https://img.shields.io/badge/SASS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-%232F6A47.svg?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Express.js](https://img.shields.io/badge/Express.js-%232C3E50.svg?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+![Prisma](https://img.shields.io/badge/Prisma-%230B3442.svg?style=for-the-badge&logo=prisma&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 ### 🧰 &nbsp;Version Control & Tools 
@@ -34,6 +36,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%232C3E50.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+![Cloudinary](https://img.shields.io/badge/Cloudinary-%230074FF.svg?style=for-the-badge&logo=cloudinary&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
