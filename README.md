@@ -19,6 +19,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23FF5722.svg?style=for-the-badge&logo=matlab&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![React Native](https://img.shields.io/badge/React%20Native-%2335495E.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![Next.js](https://img.shields.io/badge/Next.js-%23333A3D.svg?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 ![Express.js](https://img.shields.io/badge/Express.js-%232C3E50.svg?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-%232F6A47.svg?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
