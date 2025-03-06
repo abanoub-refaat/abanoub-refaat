@@ -48,14 +48,14 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="left" width: 100%;">
+<div align="center">
   <a href="https://github.com/abanoub-refaat">
     <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abanoub-refaat&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/abanoub-refaat">
-    <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abanoub-refaat&layout=compact&langs_count=20&theme=vision-friendly-dark&private=true&count-private&"/>
+    <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abanoub-refaat&layout=compact&langs_count=20&theme=vision-friendly-dark&count_private=true"/>
   </a>
-</p>
+</div>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
