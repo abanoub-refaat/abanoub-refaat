@@ -48,7 +48,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: nowrap;">
   <a href="https://github.com/abanoub-refaat">
     <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abanoub-refaat&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   </a>
