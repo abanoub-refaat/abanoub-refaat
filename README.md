@@ -12,57 +12,66 @@
 </p>
 
 ### 🛠 &nbsp;Tech Stack
-![TypeScript](https://img.shields.io/badge/TypeScript-%232F74C0.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![Assembly](https://img.shields.io/badge/Assembly-%2300599C.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-%23D33682.svg?style=for-the-badge&logo=oracle&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-%23FF5722.svg?style=for-the-badge&logo=matlab&logoColor=white)&nbsp;
-![React Native](https://img.shields.io/badge/React%20Native-%2335495E.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-%23333A3D.svg?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-%232F6A47.svg?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Express.js](https://img.shields.io/badge/Express.js-%232C3E50.svg?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-![Tailwind](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![SASS](https://img.shields.io/badge/SASS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
-![Prisma](https://img.shields.io/badge/Prisma-%230B3442.svg?style=for-the-badge&logo=prisma&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-%231E1E1E.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-%231E1E1E.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![Java](https://img.shields.io/badge/Java-%231E1E1E.svg?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00)&nbsp;
+![Python](https://img.shields.io/badge/Python-%231E1E1E.svg?style=for-the-badge&logo=python&logoColor=%23FFD43B)&nbsp;
+![C++](https://img.shields.io/badge/C++-%231E1E1E.svg?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C)&nbsp;
+![Assembly](https://img.shields.io/badge/Assembly-%231E1E1E.svg?style=for-the-badge&logo=assemblyscript&logoColor=%23FFFFFF)&nbsp;
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-%231E1E1E.svg?style=for-the-badge&logo=oracle&logoColor=%23D33682)&nbsp;
+![MATLAB](https://img.shields.io/badge/MATLAB-%231E1E1E.svg?style=for-the-badge&logo=mathworks&logoColor=%23FF5722)&nbsp;
+![React Native](https://img.shields.io/badge/React%20Native-%231E1E1E.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![React](https://img.shields.io/badge/React-%231E1E1E.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-%231E1E1E.svg?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-%231E1E1E.svg?style=for-the-badge&logo=node.js&logoColor=%238CC84B)&nbsp;
+![Express.js](https://img.shields.io/badge/Express.js-%231E1E1E.svg?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+![Tailwind](https://img.shields.io/badge/Tailwind-%231E1E1E.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2338B2AC)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%231E1E1E.svg?style=for-the-badge&logo=bootstrap&logoColor=%23563D7C)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-%231E1E1E.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-%231E1E1E.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)&nbsp;
+![SASS](https://img.shields.io/badge/SASS-%231E1E1E.svg?style=for-the-badge&logo=sass&logoColor=%23CC6699)&nbsp;
+![Prisma](https://img.shields.io/badge/Prisma-%231E1E1E.svg?style=for-the-badge&logo=prisma&logoColor=%230B3442)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-%231E1E1E.svg?style=for-the-badge&logo=mysql&logoColor=%234479A1)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%231E1E1E.svg?style=for-the-badge&logo=mongodb&logoColor=%234EA94B)&nbsp;
 
-### 🧰 &nbsp;Version Control & Tools 
+### 🧰 &nbsp;Version Control & Tools
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%232C3E50.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Cloudinary](https://img.shields.io/badge/Cloudinary-%230074FF.svg?style=for-the-badge&logo=cloudinary&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-%231E1E1E.svg?style=for-the-badge&logo=git&logoColor=%23F05033)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-%231E1E1E.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-%231E1E1E.svg?style=for-the-badge&logo=postman&logoColor=%23FF6C37)&nbsp;
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%231E1E1E.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+![Cloudinary](https://img.shields.io/badge/Cloudinary-%231E1E1E.svg?style=for-the-badge&logo=cloudinary&logoColor=%230074FF)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-%231E1E1E.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+![Adobe](https://img.shields.io/badge/Adobe-%231E1E1E.svg?style=for-the-badge&logo=adobe&logoColor=%23FF0000)&nbsp;
+![Canva](https://img.shields.io/badge/Canva-%231E1E1E.svg?style=for-the-badge&logo=Canva&logoColor=%2300C4CC)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-%231E1E1E.svg?style=for-the-badge&logo=figma&logoColor=%23F24E1E)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left" width: 100%;">
   <a href="https://github.com/abanoub-refaat">
-    <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abanoub-refaat&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abanoub-refaat&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/abanoub-refaat">
-    <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abanoub-refaat&layout=compact&langs_count=10&theme=algolia&private=true&count-private"/>
+    <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abanoub-refaat&layout=compact&langs_count=20&theme=vision-friendly-dark&private=true&count-private&"/>
   </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-  <a href="mailto:abanoubref3at18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://github.com/abanoub-refaat"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/abanoubrefaat/"><img src="https://img.shields.io/badge/LinkedIn-%232867B2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="https://www.facebook.com/abanoub.refaat.94"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="mailto:abanoubref3at18@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-%231F1F1F?style=for-the-badge&logo=gmail&logoColor=%23D44638"/>
+</a>&nbsp;
+<a href="https://github.com/abanoub-refaat">
+  <img src="https://img.shields.io/badge/GitHub-%231F1F1F.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/abanoubrefaat/">
+  <img src="https://img.shields.io/badge/LinkedIn-%231F1F1F.svg?style=for-the-badge&logo=linkedin&logoColor=%230A66C2"/>
+</a>&nbsp;
+<a href="https://www.facebook.com/abanoub.refaat.94">
+  <img src="https://img.shields.io/badge/Facebook-%231F1F1F.svg?style=for-the-badge&logo=facebook&logoColor=%231877F2"/>
+</a>
+
 </p>
 
