@@ -48,12 +48,12 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="left" style="display: flex; gap: 10px;">
+<p align="left" width: 100%;">
   <a href="https://github.com/abanoub-refaat">
-    <img height="200" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abanoub-refaat&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abanoub-refaat&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/abanoub-refaat">
-    <img height="200" width="320" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abanoub-refaat&layout=compact&langs_count=10&theme=algolia"/>
+    <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abanoub-refaat&layout=compact&langs_count=10&theme=algolia&private=true&count-private"/>
   </a>
 </p>
 
