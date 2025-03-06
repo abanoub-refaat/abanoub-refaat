@@ -48,10 +48,16 @@
 
 ### ⚙️ GitHub Analytics
 
-<div>
-  <img height="200" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abanoub-refaat&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="200" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abanoub-refaat&layout=compact&langs_count=20&theme=vision-friendly-dark&count_private=true"/>
-</div>
+<table style="border-radius: 10px; overflow: hidden; border-collapse: separate; border-spacing: 0;">
+  <tr border="0">
+    <td style="border: none; padding: 0;">
+      <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abanoub-refaat&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" style="border-radius: 10px;"/>
+    </td>
+    <td style="border: none; padding: 0;">
+      <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abanoub-refaat&layout=compact&langs_count=20&theme=vision-friendly-dark&count_private=true" style="border-radius: 10px;"/>
+    </td>
+  </tr>
+</table>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
