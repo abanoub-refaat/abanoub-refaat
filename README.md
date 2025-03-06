@@ -46,14 +46,11 @@
 ![Canva](https://img.shields.io/badge/Canva-%231E1E1E.svg?style=for-the-badge&logo=Canva&logoColor=%2300C4CC)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-%231E1E1E.svg?style=for-the-badge&logo=figma&logoColor=%23F24E1E)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: no-wrap;">
-  <a href="https://github.com/abanoub-refaat">
-    <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abanoub-refaat&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/abanoub-refaat">
-    <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abanoub-refaat&layout=compact&langs_count=20&theme=vision-friendly-dark&count_private=true"/>
-  </a>
+### ⚙️ GitHub Analytics
+
+<div align="center">
+  <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abanoub-refaat&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" style="margin-right: 10px" />
+  <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abanoub-refaat&layout=compact&langs_count=20&theme=vision-friendly-dark&count_private=true" />
 </div>
 
 ### 🤝🏻 &nbsp;Connect with Me
