@@ -19,7 +19,8 @@
 ![C++](https://img.shields.io/badge/C++-%231E1E1E.svg?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C)&nbsp;
 ![Assembly](https://img.shields.io/badge/Assembly-%231E1E1E.svg?style=for-the-badge&logo=assemblyscript&logoColor=%23FFFFFF)&nbsp;
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-%231E1E1E.svg?style=for-the-badge&logo=oracle&logoColor=%23D33682)&nbsp;
-![MATLAB](https://img.shields.io/badge/MATLAB-%231E1E1E.svg?style=for-the-badge&logo=mathworks&logoColor=%23FF5722)&nbsp;
+![MATLAB](https://img.shields.io/badge/MATLAB-%231E1E1E.svg?style=for-the-badge&logo=mathworks&logoColor=%23FF5722)
+![Markdown](https://img.shields.io/badge/Markdown-%231E1E1E.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-%231E1E1E.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![React](https://img.shields.io/badge/React-%231E1E1E.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![Next.js](https://img.shields.io/badge/Next.js-%231E1E1E.svg?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
