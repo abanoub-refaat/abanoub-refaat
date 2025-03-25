@@ -17,6 +17,7 @@
 ![Java](https://img.shields.io/badge/Java-%231E1E1E.svg?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00)&nbsp;
 ![Python](https://img.shields.io/badge/Python-%231E1E1E.svg?style=for-the-badge&logo=python&logoColor=%23FFD43B)&nbsp;
 ![C++](https://img.shields.io/badge/C++-%231E1E1E.svg?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C)&nbsp;
+![C](https://img.shields.io/badge/C-%231E1E1E.svg?style=for-the-badge&logo=c&logoColor=%2300599C)&nbsp;
 ![Assembly](https://img.shields.io/badge/Assembly-%231E1E1E.svg?style=for-the-badge&logo=assemblyscript&logoColor=%23FFFFFF)&nbsp;
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-%231E1E1E.svg?style=for-the-badge&logo=oracle&logoColor=%23D33682)&nbsp;
 ![MATLAB](https://img.shields.io/badge/MATLAB-%231E1E1E.svg?style=for-the-badge&logo=mathworks&logoColor=%23FF5722)
