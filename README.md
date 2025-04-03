@@ -23,6 +23,7 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-%231E1E1E.svg?style=for-the-badge&logo=mathworks&logoColor=%23FF5722)
 ![Markdown](https://img.shields.io/badge/Markdown-%231E1E1E.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-%231E1E1E.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![Expo](https://img.shields.io/badge/Expo-%231E1E1E.svg?style=for-the-badge&logo=expo&logoColor=%23D04A37)&nbsp;
 ![React](https://img.shields.io/badge/React-%231E1E1E.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![Next.js](https://img.shields.io/badge/Next.js-%231E1E1E.svg?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-%231E1E1E.svg?style=for-the-badge&logo=node.js&logoColor=%238CC84B)&nbsp;
@@ -35,6 +36,8 @@
 ![Prisma](https://img.shields.io/badge/Prisma-%231E1E1E.svg?style=for-the-badge&logo=prisma&logoColor=%230B3442)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-%231E1E1E.svg?style=for-the-badge&logo=mysql&logoColor=%234479A1)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%231E1E1E.svg?style=for-the-badge&logo=mongodb&logoColor=%234EA94B)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-%231E1E1E.svg?style=for-the-badge&logo=firebase&logoColor=%23FFCA28)&nbsp;
+
 
 ### 🧰 &nbsp;Version Control & Tools
 
