@@ -16,6 +16,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%231E1E1E.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![Java](https://img.shields.io/badge/Java-%231E1E1E.svg?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00)&nbsp;
 ![Python](https://img.shields.io/badge/Python-%231E1E1E.svg?style=for-the-badge&logo=python&logoColor=%23FFD43B)&nbsp;
+![Dart](https://img.shields.io/badge/Dart-%231E1E1E.svg?style=for-the-badge&logo=dart&logoColor=%230175C2)
 ![C++](https://img.shields.io/badge/C++-%231E1E1E.svg?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C)&nbsp;
 ![C](https://img.shields.io/badge/C-%231E1E1E.svg?style=for-the-badge&logo=c&logoColor=%2300599C)&nbsp;
 ![Assembly](https://img.shields.io/badge/Assembly-%231E1E1E.svg?style=for-the-badge&logo=assemblyscript&logoColor=%23FFFFFF)&nbsp;
