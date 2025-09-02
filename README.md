@@ -35,6 +35,7 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind-%231E1E1E.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2338B2AC)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%231E1E1E.svg?style=for-the-badge&logo=bootstrap&logoColor=%23563D7C)&nbsp;
 ![SASS](https://img.shields.io/badge/SASS-%231E1E1E.svg?style=for-the-badge&logo=sass&logoColor=%23CC6699)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-%231E1E1E.svg?style=for-the-badge&logo=pandas&logoColor=%23CC6699)&nbsp;
 
 ### 🗄️ &nbsp;Databases
 
@@ -48,6 +49,7 @@
 
 ![Git](https://img.shields.io/badge/Git-%231E1E1E.svg?style=for-the-badge&logo=git&logoColor=%23F05033)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-%231E1E1E.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%231E1E1E.svg?style=for-the-badge&logo=jupyter&logoColor=%23CC6699)
 ![Postman](https://img.shields.io/badge/Postman-%231E1E1E.svg?style=for-the-badge&logo=postman&logoColor=%23FF6C37)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%231E1E1E.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-%231E1E1E.svg?style=for-the-badge&logo=cloudinary&logoColor=%230074FF)&nbsp;
