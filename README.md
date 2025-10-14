@@ -14,6 +14,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%231E1E1E.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![Python](https://img.shields.io/badge/Python-%231E1E1E.svg?style=for-the-badge&logo=python&logoColor=%23FFD43B)&nbsp;
 ![Dart](https://img.shields.io/badge/Dart-%231E1E1E.svg?style=for-the-badge&logo=dart&logoColor=%230175C2)
+![Kotlin](https://img.shields.io/badge/Kotlin-%231E1E1E.svg?style=for-the-badge&logo=kotlin&logoColor=%237F52FF)&nbsp;
 ![C++](https://img.shields.io/badge/C++-%231E1E1E.svg?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C)&nbsp;
 ![C](https://img.shields.io/badge/C-%231E1E1E.svg?style=for-the-badge&logo=c&logoColor=%2300599C)&nbsp;
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-%231E1E1E.svg?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMicgaGVpZ2h0PScxMicgdmlld0JveD0nMCAwIDY0IDY0Jz48Y2lyY2xlIGN4PSczMicgY3k9JzMyJyByPSczMicgZmlsbD0nI0YwMDAwMCcvPjwvc3ZnPg%3D%3D&logoColor=white)
@@ -27,11 +28,12 @@
 ![React](https://img.shields.io/badge/React-%231E1E1E.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-%231E1E1E.svg?style=for-the-badge&logo=angular&logoColor=%23DD0031)&nbsp;
 ![React Native](https://img.shields.io/badge/React%20Native-%231E1E1E.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-%231E1E1E.svg?style=for-the-badge&logo=flutter&logoColor=%2300B4F0)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%231E1E1E.svg?style=for-the-badge&logo=jetpackcompose&logoColor=%234285F4)&nbsp;
 ![Expo](https://img.shields.io/badge/Expo-%231E1E1E.svg?style=for-the-badge&logo=expo&logoColor=%23D04A37)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-%231E1E1E.svg?style=for-the-badge&logo=node.js&logoColor=%238CC84B)&nbsp;
 ![Express.js](https://img.shields.io/badge/Express.js-%231E1E1E.svg?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![Hibernate](https://img.shields.io/badge/Hibernate-%231E1E1E.svg?style=for-the-badge&logo=hibernate&logoColor=%238B0000)&nbsp;
+![Android](https://img.shields.io/badge/Android-%231E1E1E.svg?style=for-the-badge&logo=android&logoColor=%233DDC84)&nbsp;
 ![Tailwind](https://img.shields.io/badge/Tailwind-%231E1E1E.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2338B2AC)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%231E1E1E.svg?style=for-the-badge&logo=bootstrap&logoColor=%23563D7C)&nbsp;
 ![SASS](https://img.shields.io/badge/SASS-%231E1E1E.svg?style=for-the-badge&logo=sass&logoColor=%23CC6699)&nbsp;
@@ -51,6 +53,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%231E1E1E.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%231E1E1E.svg?style=for-the-badge&logo=jupyter&logoColor=%23CC6699)
 ![Postman](https://img.shields.io/badge/Postman-%231E1E1E.svg?style=for-the-badge&logo=postman&logoColor=%23FF6C37)&nbsp;
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%231E1E1E.svg?style=for-the-badge&logo=androidstudio&logoColor=%233DDC84)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%231E1E1E.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-%231E1E1E.svg?style=for-the-badge&logo=cloudinary&logoColor=%230074FF)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-%231E1E1E.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
